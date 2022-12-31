@@ -1,0 +1,21 @@
+/* .carousel .carousel-item {
+    width: 100%;
+    position: relative;
+   
+
+} */
+.carousel .content {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    color: #fff;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+
+}
